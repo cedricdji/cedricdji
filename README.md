@@ -1,1 +1,1 @@
-Hi, I’m @cedricdji,  I am a network and telecommunications engineer and I am specializing in data science I have a good notion and disposition in programming and I hope with all my heart to find my place here. I’m looking to collaborate on any Data science project.
+Hi, I’m @cedricdji,  I am a IT Consultant and I am specializing in data science I have a good notion and disposition in programming and I hope with all my heart to find my place here. I’m looking to collaborate on any Data science project.
